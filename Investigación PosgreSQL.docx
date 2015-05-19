@@ -1,0 +1,23 @@
+
+Licencia 
+  The PostgreSQL License.
+ Viene de una familia de licencias de software libre, pertenece al movimiento Copy-left license. Por ende este SGMS entra en la definición de código abierto:
+ 1. Free Redistribution:
+ 	No pone oposición para que el sistema sea comercializado
+ 2. Source Code:
+ 	Los programas que se venden bajo esta licencia deben traer el código fuente.
+ 3. Derived Works:
+ 	La licencia permite aportes externos a postgreSQL, tambien permite que el trabajo modificado sea distribuido, pero siempre bajo los terminos de software libre.
+ 4. Integrity of The Author's Source Code:
+ 	No se podrán hacer nuevas distribuciones con el código de un autor de software, a no ser de que este lo permita explicitamente en la los permisos de la licencia. De poderse el nuevo software deberá tener un nuevo nombre de versión.
+ 5. No Discrimination Against Persons or Groups
+
+ 6. No Discrimination Against Fields of Endeavor 	
+ 7. Distribution of License
+ 8. License Must Not Be Specific to a Product
+ 9. License Must Not Restrict Other Software
+ 10. License Must Be Technology-Neu
+  Y viene de una familia licencias de software libre.
+  Berkeley Software Distribution (BSD).
+
+  Extraído de "http://opensource.org/osd" el día [18/05/2015]
